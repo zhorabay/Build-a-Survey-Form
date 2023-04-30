@@ -30,7 +30,7 @@ label {
     margin-left: 500px;
 }
 
-input {
+input[type=text] {
     margin-left: 500px;
     width: 8cm;
 }
