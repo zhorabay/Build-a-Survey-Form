@@ -43,6 +43,6 @@ option {
     margin-left: 500px;
 }
 
-#fname {
+input [type="checkbox"] {
     margin-left: 500px;
 }
