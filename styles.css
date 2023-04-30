@@ -26,9 +26,10 @@ label {
     text-align: center;
     text-decoration: solid;
     font-size: large;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 
 input {
-    width:auto;
+    margin-left: 500px;
+    width:10cm;
 }
