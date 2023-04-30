@@ -33,3 +33,11 @@ input {
     margin-left: 500px;
     width: 8cm;
 }
+
+select {
+    margin-left: 500px;
+}
+
+option {
+    margin-left: 500px;
+}
