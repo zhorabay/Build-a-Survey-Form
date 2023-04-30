@@ -30,9 +30,13 @@ label {
     margin-left: 500px;
 }
 
-input [type=text]{
+input [type="text"] {
     margin-left: 500px;
     width: 8cm;
+}
+
+input [type="number"] {
+    margin-left: 500px;
 }
 
 select {
@@ -47,6 +51,6 @@ input [type=radio] {
     margin-left: 500px;
 }
 
-input [type=submit] {
-
+input [type="submit"] {
+    margin-left: 500px;
 }
