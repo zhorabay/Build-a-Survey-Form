@@ -25,13 +25,19 @@
         <option value="Prefer not to say">Prefer not to say</option>
         </select><br>
         <label for="fname">Would you recommend freeCodeCamp to a friend?</label><br>
+        <input list="recommend" name="recommend" id="recommend">
+        <datalist id="recommend">
+        <option value="Definitely">
+        <option value="Maybe">
+        <option value="Not sure">
+        </datalist>
         <ul type="checkbox">
             <li>Definitely</li>
             <li>Maybe</li>
             <li>Not sure</li>
         </ul>
         <label for="features">What is your favorite feature of freeCodeCamp?</label><br>
-        <select name="Challenges" id="feature">
+        <select name="Select an option" id="feature">
         <option value="Challenges">Challenges</option>
         <option value="Projects">Projects</option>
         <option value="Community">Community</option>
