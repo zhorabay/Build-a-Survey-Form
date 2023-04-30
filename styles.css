@@ -18,6 +18,7 @@ p {
 fieldset {
     color: black;
     background-color: orange;
+    height: 500px;
 }
 
 label {
@@ -42,6 +43,10 @@ option {
     margin-left: 500px;
 }
 
-input1 {
+radio {
     margin-left: 500px;
+}
+
+submit {
+
 }
