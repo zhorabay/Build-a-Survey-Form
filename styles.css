@@ -35,6 +35,11 @@ input[type=text] {
     width: 8cm;
 }
 
+input[type=number] {
+    margin-left: 500px;
+    width: 8cm;
+}
+
 select {
     margin-left: 500px;
 }
