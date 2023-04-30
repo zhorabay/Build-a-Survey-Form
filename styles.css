@@ -43,6 +43,6 @@ option {
     margin-left: 500px;
 }
 
-input [id=fname] {
+input #fname {
     margin-left: 500px;
 }
