@@ -9,12 +9,13 @@ h1 {
     text-align: center;
 }
 
-.description {
+p {
     color: black;
     text-align: center;
     font-size: medium;
 }
 
 fieldset {
-    color: orange;
+    color: black;
+    background-color: orange;
 }
