@@ -49,13 +49,13 @@ option {
 }
 
 input[type=submit] {
-    margin-left: 300px;
+    margin-left: 500px;
 }
 
 input[type=radio] {
-    margin-left: 300px;
+    margin-left: 100px;
 }
 
 input[type=checkbox] {
-    margin-left: 500px;
+    margin-left: 100px;
 }
