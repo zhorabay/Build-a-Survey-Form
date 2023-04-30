@@ -43,6 +43,14 @@ option {
     margin-left: 500px;
 }
 
-input [type="checkbox"] {
+input[type=submit] {
+    margin-left: 500px;
+}
+
+input[type=radio] {
+    margin-left: 500px;
+}
+
+input[type=checkbox] {
     margin-left: 500px;
 }
