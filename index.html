@@ -11,14 +11,24 @@
     <p id="description">Thank you for taking the time to help us improve the platform</p>
     <fieldset>   
     <form id="survey-form">
-        <p>Name</p>
+        <label for="fname">Name:</label><br>
         <input placeholder = 'write your username' type="text" id="fname" name="fname"><br>
-         <p>Email</p>
+        <label for="fname">Email:</label><br>
         <input placeholder = 'write your email' type="text" id="fname" name="Email"><br>
-        <p>Age(optional)</p>
-        <input placeholder = 'Age' type="checkbox" id="fname" name="fname"><br>
-        <p>Which option best describes your current role?</p>
-        <input placeholder = 'Select' type="number" id="fname" name="fname"><br>
+        <label for="fname">Age(optional):</label><br>
+        <input placeholder = 'Age' type="number" id="fname" name="fname"><br>
+        <label for="fname">Which option best describes your current role?</label><br>
+        <select placeholder = 'Select current role' type="select" id="fname" name="fname"><br>
+        <label for="fname">Would you recommend freeCodeCamp to a friend?</label><br>
+        <ul>
+            <li>Definitely</li>
+            <li>Maybe</li>
+            <li>Not sure</li>
+        </ul>
+        <label for="fname">What is your favorite feature of freeCodeCamp?</label><br>
+        <select placeholder = 'Select an option' type="select" id="fname" name="fname"><br>
+        <label for="fname">What would you like to see improved? (Check all that apply)</label><br>
+        <input type="submit" value="Submit">
     </form>
     </fieldset>   
 </body>
